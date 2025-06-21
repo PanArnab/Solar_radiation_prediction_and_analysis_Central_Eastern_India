@@ -11,7 +11,7 @@ This project forecasts solar radiation using historical data from NASA's POWER d
 - Matplotlib
 
 ## 📊 Outcome
-Achieved **96% accuracy** using `XGBoostRegressor`, outperforming other models.
+Achieved **96% accuracy** using `XGBoostRegressor`.
 
 ## 📁 Data
 NASA POWER dataset (1984–2025)
